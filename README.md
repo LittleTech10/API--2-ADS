@@ -11,7 +11,7 @@
 <p> Nossos clientes são vendedores de lojas online e físicas e para que possamos realizar nosso processo de conciliação financeira 
 precisamos das informações destas vendas, para isso, estes clientes precisam realizar uma serie de configurações - nos dando autorização, 
 para que nossos sistemas possam acessar: apis e planilhas de forma automatizada. Estas autorizações acontecem pela recepção de tokens e usuários de acesso. 
-Portanto este sistema será responsável por salvar estas informações de usuário/senha e tokens </p>
+Portanto este sistema será responsável por salvar estas informações de usuário/senha e tokens. </p>
 
 <br>
 
