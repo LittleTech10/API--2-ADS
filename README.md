@@ -32,5 +32,5 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h3> Requisitos Não Funcionais: </h3> 
 
  <p> • Linguagem JAVA </p>
- <p> • Banco de dados funcional </p>
+ <p> • Banco de Dados Relacional MySQL </p>
  <p> • Documentações </p>
