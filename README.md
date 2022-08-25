@@ -1,6 +1,6 @@
 # API: 2º ADS - Little Tech
 
-Aprendizado por Projeto Integrado do 2º semestre da Faculdade de Tecnologia de São José dos Campos - "Professor Jessen Vidal".
+<h1> Aprendizado por Projeto Integrado do 2º semestre da Faculdade de Tecnologia de São José dos Campos - "Professor Jessen Vidal". </h1>
 
 <h2> O Projeto 💼 </h2>
 
@@ -29,4 +29,4 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 
  <p> • Linguagem JAVA </p>
  <p> • Banco de dados funcional </p>
- <p> • Documentaçõees </p>
+ <p> • Documentações </p>
