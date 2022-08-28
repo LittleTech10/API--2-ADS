@@ -36,6 +36,13 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  <p> • Documentações </p>
  <br>
  <br>
+<h2>Backlog 📊</h2><br>
+ O product backlog é uma lista ordenada que tem como função documentar de forma clara todos os requisitos do desenvolvimento de um projeto. Itens que precisem de maior refinamento geralmente têm uma importância menor e ficam mais abaixo no Product Backlog.  
+<br>
+<br>
+<img align="center" src="Imagens/backlog.jpg"/>
+<br>
+<br>
  <h2>Equipe 👾</h2>
  
  Nome|Função|Github|Linkedin 
