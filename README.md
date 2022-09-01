@@ -46,7 +46,9 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 ✔️ Wireframe <br>
  • Estilização do cadastro de canais <br>
  • Estilização das configurações ativas <br>
+  • Estilização das configurações de canais <br>
  • Implementação do banco de dados no cadastramento <br>
+ • Desenvolvimento da página de login <br>
 <br>
 <br>
 <h2>Backlog 📊</h2><br>
@@ -61,7 +63,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  Nome|Função|Github|Linkedin 
 -----|------|------|---------
 Brener Reis    |Product Owner|[@Github](https://github.com/BrenerReis)|[@Linkedin](https://www.linkedin.com/in/brener-freire-058950230/)
-Eliezer Lopes  |Desenvolvedor|[@Github](https://github.com/EliezerLopes1)|[@Linkedin](LINK)
+Eliezer Lopes  |Desenvolvedor|[@Github](https://github.com/EliezerLopes1)|[@Linkedin](https://www.linkedin.com/mwlite/in/eli%C3%A9zer-lopes-b89a4124a)
 Gabriel Angelis|Desenvolvedor|[@Github](https://github.com/GabrAngelis)|[@Linkedin](https://www.linkedin.com/in/gabriel-luis-de-angelis-b64816237/)
 Isabel Reis    |Desenvolvedor|[@Github](https://github.com/IsabelRReis)|[@Linkedin](https://www.linkedin.com/in/isabel-reis-09806920b/)
 Mariana Veloso |Desenvolvedor |[@Github](https://github.com/Marih2210)|[@Linkedin](https://www.linkedin.com/in/mariana-veloso-979436231)
