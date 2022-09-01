@@ -41,7 +41,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 <img align="center" src="Imagens/Cronograma_1Sprint.png"/>
 
-<h3> • Sprint 1 - 25/03 a 14/04 </h3>
+<h3> • Sprint 1 - 29/08 a 18/09 </h3>
 
 ✔️ Wireframe <br>
  • Estilização do cadastro de canais <br>
