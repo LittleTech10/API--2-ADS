@@ -36,7 +36,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  <p> • Documentações </p>
  <br>
  <br>
-
+<h2>Cronograma da 1ª Sprint 📆</h2>
 <br>
 <br>
 <img align="center" src="Imagens/Cronograma_1Sprint.png"/>
