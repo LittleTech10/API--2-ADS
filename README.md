@@ -45,11 +45,11 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h3> • Sprint 1 - 29/08 a 18/09 </h3>
 
 ✔️ Wireframe <br>
- • Estilização do cadastro de canais <br>
- • Estilização das configurações ativas <br>
-  • Estilização das configurações de canais <br>
- • Implementação do banco de dados no cadastramento <br>
- • Desenvolvimento da página de login <br>
+✔️ Estilização do cadastro de canais <br>
+✔️ Estilização das configurações ativas <br>
+✔️ Estilização das configurações de canais <br>
+✔️ Implementação do banco de dados no cadastramento <br>
+✔️ Desenvolvimento da página de login <br>
 <br>
 <br>
 <h2>Backlog 📊</h2><br>
