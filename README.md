@@ -83,7 +83,6 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <div style="display: inline_blocks"><br>              
 <img align="center"src="Imagens/java.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/github.png" height= "80" width= "80"/>
-<img align="center"src="Imagens/visualcode.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/discordia.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/figma.png" height= "80" width= "80"/>
 <br>
