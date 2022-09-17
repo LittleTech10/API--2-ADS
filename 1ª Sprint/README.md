@@ -53,7 +53,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 <br>
 <h2>Demonstração de nossa aplicação 💻</h2><br>
-<h3 align="center"><b>Página de Cadastro dos Canais:<b></h3>
+<h3 align="center"><strong>Página de Cadastro dos Canais:</strong></h3>
 <img align="center" src="Imagens/admin.png"/>
 <br>
 <br>
