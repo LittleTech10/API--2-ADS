@@ -80,7 +80,6 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 • Back-end: Java<br>
 • Front-end: Java Swing<br>
 • Ferramentas: Github, Visual Studio Code, Discord, Figma.<br>
-<br>
 <div style="display: inline_blocks"><br>              
 <img align="center"src="Imagens/java.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/github.png" height= "80" width= "80"/>
