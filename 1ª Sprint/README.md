@@ -52,7 +52,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 ✔️ Desenvolvimento da página de login <br>
 <br>
 <br>
-<h2>Demonstração nossa aplicação 💻</h2><br>
+<h2>Demonstração de nossa aplicação 💻</h2><br>
 <h3 align="center">aqui:</h3>
 <br>
 <br>
