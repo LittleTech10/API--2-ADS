@@ -55,7 +55,8 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h2>Demonstração de nossa aplicação 💻</h2><br>
 <h3 align="center">Página de Página de Login:</h3>
 <img align="center" src="Imagens/login.png"/>
-
+<br>
+<br>
 <h3 align="center">Página de Cadastro dos Canais:</h3>
 <img align="center" src="Imagens/admin.png"/>
 <br>
