@@ -52,8 +52,8 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 ✔️ Desenvolvimento da página de login <br>
 <br>
 <br>
-<h2>Demonstração completa de nossa aplicação 💻</h2><br>
-<h3 align="center"> Link da aplicação:</h3>
+<h2>Demonstração nossa aplicação 💻</h2><br>
+<h3 align="center">aqui:</h3>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
