@@ -57,8 +57,28 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <img align="center" src="Imagens/login.png"/>
 <br>
 <br>
+<h3 align="center">Página de Cadastro do Usuário:</h3>
+<img align="center" src="Imagens/cadastro.png"/>
+<br>
+<br>
 <h3 align="center">Página de Cadastro dos Canais:</h3>
 <img align="center" src="Imagens/admin.png"/>
+<br>
+<br>
+<h3 align="center">Página de Seleção do Canal:</h3>
+<img align="center" src="Imagens/selecionarCanal.png"/>
+<br>
+<br>
+<h3 align="center">Página de Configuração do Canal:</h3>
+<img align="center" src="Imagens/configCanal.png"/>
+<br>
+<br>
+<h3 align="center">Página de Configurações Ativas:</h3>
+<img align="center" src="Imagens/configAtivas.png"/>
+<br>
+<br>
+<h3 align="center">Vídeo demonstrativo:</h3>
+<img align="center" src=""/>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
