@@ -71,7 +71,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 
 <br>
 <br>
-<h2>Demonstração completa da nossa aplicação 💻</h2><br>
+<h2>Demonstração completa de nossa aplicação 💻</h2><br>
 <h3 align="center"> Link da aplicação:</h3>
 <br>
 <br>
