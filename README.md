@@ -77,7 +77,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
-• Back-end:Java<br>
+• Back-end: Java<br>
 • Front-end: Java Swing<br>
 • Ferramentas: Github, Visual Studio Code, Discord, Figma.<br>
 <br>
