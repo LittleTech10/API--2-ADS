@@ -39,7 +39,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h2>Cronograma da 1ª Sprint 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/Cronograma_1Sprint.png"/>
+<img align="center" src="Imagens/CronogramaS1.jpg"/>
 
 
 <h3> • Sprint 1 - 29/08 a 18/09 </h3>
