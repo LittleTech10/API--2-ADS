@@ -1,19 +1,20 @@
-CREATE DATABASE API_LittleTech;
+create database API_LittleTech;
 use API_LittleTech;
 
-create table login_usuario (
-	id_usuario INT PRIMARY KEY AUTO_INCREMENT,
-    nome_usuario VARCHAR(300),
-    email_usuario VARCHAR(400),
-    username_usuario VARCHAR(200),
-    senha_usuario VARCHAR(20)
+create table usuario(
+    id_usuario int not null primary key AUTO_INCREMENT,
+    nome_usuario varchar(50) not null,
+    email_usuario varchar(50) not null,
+    username_usuario varchar(50) not null,
+    senha_usuario varchar(50) not null
     );
 
 create table canais(
-	id_canal INT PRIMARY KEY AUTO_INCREMENT,
-    nome_canal VARCHAR(300),
-    tipo_canal VARCHAR(300),
-    padrao_autenticacao VARCHAR(200)
+    id_canal int not null primary key AUTO_INCREMENT,
+    nome_canal varchar(50) not null,
+    tipo_canal varchar(50) not null,
+    padrao_autenticacao varchar(50) not null
     );
-    
+
+select * from usuario;
 select * from canais;
