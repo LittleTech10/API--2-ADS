@@ -78,7 +78,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 <br>
 <h3 align="center">Vídeo demonstrativo:</h3>
-<img align="center" src="Imagens/API.wmv"/>
+<img align="center" src="Imagens/API.gif"/>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
