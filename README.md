@@ -95,9 +95,18 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  O product backlog é uma lista ordenada que tem como função documentar de forma clara todos os requisitos do desenvolvimento de um projeto. Itens que precisem de maior refinamento geralmente têm uma importância menor e ficam mais abaixo no Product Backlog.  
 <br>
 <br>
+
 <img align="center" src="Imagens/backlog.JPG"/>
 <br>
 <br>
+<h2>Modelo de dados📑</h2><br>
+ Um modelo de banco de dados mostra a estrutura lógica de um banco de dados, incluindo as relações e restrições que determinam como os dados podem ser armazenados e acessados.
+ <br>
+ <h2>Modelo de dados - 1ª Sprint📑</h2><br>
+ <h5>Modelo Conceitual<h5>
+ <img align="center"src="Imagens/Modelo_de_Dados_Conceitual.jpeg" height= "300" width= "1100"/>
+ <h5>Modelo Físico<h5>
+ <img align="center"src="Imagens/Modelo_dados_físico.jpeg" height= "400" width= "600"/>
 <h2>Burndown 📈📉 </h2> <br>
  O Sprint Burndown Chart mostra a comparação entre o trabalho estimado inicialmente no Sprint Planning Meeting com a quantidade restante estimada de trabalho.
 <br>
