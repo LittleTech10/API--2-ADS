@@ -104,7 +104,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  <br>
  <h3>Modelo de dados - 1ª Sprint</h3><br>
  <h5>Modelo Conceitual<h5>
- <img align="center"src="Imagens/Modelo_de_Dados_Conceitual.jpg" height= "700" width= "1200"/>
+ <img align="center"src="Imagens/Modelo_de_Dados_Conceitual.jpg" height= "700" width= "1300"/>
  <h5>Modelo Físico<h5>
  <img align="center"src="Imagens/Modelo_dados_físico.jpeg" height= "400" width= "600"/>
 <h2>Burndown 📈📉 </h2> <br>
