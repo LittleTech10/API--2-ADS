@@ -86,6 +86,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <img align="center"src="Imagens/visualcode.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/discordia.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/figma.png" height= "80" width= "80"/>
+<img align="center"src="Imagens/canva.png" height= "80" width= "80"/>
 <br>
 <br>
 <h2>Backlog 📊</h2><br>
