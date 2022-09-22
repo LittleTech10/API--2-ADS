@@ -53,14 +53,13 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 
 <h3> • Sprint 2 - 19/09 a 09/10 </h3>
 
-✔️ Funcionalidade das páginas de canais com usuário e senha e Configurações Ativas <br>
-✔️ Sistema Relacional entre o cadastro de canal, login e ADM login<br>
-✔️ Funcionalidade do Back-end do aplicativo<br>
-✔️ Aperfeiçoamento do Front-end<br>
-
+✔️ Funcionalidade do Banco de Dados das páginas: Configurações de canais e Configurações ativas <br>
+✔️ Funcionalidade do Back-end das páginas: Configurações de canais e Configurações ativas <br>
+✔️ Aperfeiçoamento do Front-end <br>
 
 <h3> • Sprint 3 - 13/10 a 06/11 </h3>
 
+✔️ Sistema Relacional entre a página de Cadastro de Canais, a página de Login de Usuário e a página de Login do Administrador <br>
 ✔️ Barra de Pesquisa <br>
 ✔️ Aperfeiçoamento do Banco de Dados e Funcionalidade <br>
 
@@ -117,7 +116,6 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  
  Nome|Função|Github|Linkedin 
 -----|------|------|---------
-Brener Reis    |Product Owner|[@Github](https://github.com/BrenerReis)|[@Linkedin](https://www.linkedin.com/in/brener-freire-058950230/)
 Eliézer Lopes  |Desenvolvedor|[@Github](https://github.com/EliezerLopes1)|[@Linkedin](https://www.linkedin.com/in/eli%C3%A9zer-lopes-b89a4124a)
 Gabriel Angelis|Desenvolvedor|[@Github](https://github.com/GabrAngelis)|[@Linkedin](https://www.linkedin.com/in/gabriel-luis-de-angelis-b64816237/)
 Isabel Reis    |Desenvolvedor|[@Github](https://github.com/IsabelRReis)|[@Linkedin](https://www.linkedin.com/in/isabel-reis-09806920b/)
