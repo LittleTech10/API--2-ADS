@@ -53,16 +53,8 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 
 <h3> • Sprint 2 - 19/09 a 09/10 </h3>
 
-✔️ Funcionalidade do Banco de Dados das páginas :
-<p>
-- Configurações de canais  <br> 
-- Configurações ativas  <br> 
-</p>
-✔️ Funcionalidade do Back-end das páginas : 
-<p>
-- Configurações de canais <br>
-- Configurações ativas <br>
-</p>
+✔️ Funcionalidade do Banco de Dados das páginas : Configurações de canais e Configurações ativas. <br> 
+✔️ Funcionalidade do Back-end das páginas : Configurações de canais e Configurações ativas. <br>
 ✔️ Aperfeiçoamento do Front-end <br>
 
 <h3> • Sprint 3 - 13/10 a 06/11 </h3>
