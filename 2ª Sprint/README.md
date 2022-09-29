@@ -36,50 +36,17 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  <p> • Documentações </p>
  <br>
  <br>
-<h2>Cronograma da 1ª Sprint 📆</h2>
+<h2>Cronograma da 2ª Sprint 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/CronogramaS1.jpg"/>
+<img align="center" src="Imagens/CronogramaS2.jpg"/>
 
 
-<h3> • Sprint 1 - 29/08 a 18/09 </h3>
+<h3> • Sprint 2 - 19/09 a 09/10 </h3>
 
-✔️ Wireframe <br>
-✔️ Estilização do cadastro de canais <br>
-✔️ Estilização das configurações ativas <br>
-✔️ Estilização das configurações de canais <br>
-✔️ Implementação do banco de dados no cadastramento <br>
-✔️ Desenvolvimento da página de login <br>
-<br>
-<br>
-<h2>Demonstração de nossa aplicação 💻</h2><br>
-<h3 align="center">Página de Login:</h3>
-<img align="center" src="Imagens/login.png"/>
-<br>
-<br>
-<h3 align="center">Página de Cadastro do Usuário:</h3>
-<img align="center" src="Imagens/cadastro.png"/>
-<br>
-<br>
-<h3 align="center">Página de Cadastro dos Canais:</h3>
-<img align="center" src="Imagens/admin.png"/>
-<br>
-<br>
-<h3 align="center">Página de Seleção do Canal:</h3>
-<img align="center" src="Imagens/selecionarCanal.png"/>
-<br>
-<br>
-<h3 align="center">Página de Configuração do Canal:</h3>
-<img align="center" src="Imagens/configCanal.png"/>
-<br>
-<br>
-<h3 align="center">Página de Configurações Ativas:</h3>
-<img align="center" src="Imagens/configAtivas.png"/>
-<br>
-<br>
-<h3 align="center">Vídeo demonstrativo:</h3>
-<img align="center" src="Imagens/API.gif"/>
-<br>
+✔️ Funcionalidade do Banco de Dados das páginas de Configurações de Canais e Configurações Ativas. <br>
+✔️ Funcionalidade do Back-end das páginas de Configurações de Canais e Configurações Ativas. <br>
+✔️ Aperfeiçoamento do Banco de Dados e Funcionalidade. <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
