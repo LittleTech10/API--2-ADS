@@ -18,17 +18,17 @@ create table canais(
 
 create table configuracao_canais_token(
 	id_canal_token int not null primary key AUTO_INCREMENT,
-    nome_canal_token varchar(50) null,
-    id_conta_token varchar(50) null,
-    token_canal varchar(50) null
+    nome_canal_token varchar(50) not null,
+    id_conta_token varchar(50) not null,
+    token_canal varchar(50) not null
     );
     
 create table configuracao_canais_usuario(
 	id_canal_usuario int not null primary key AUTO_INCREMENT,
-    nome_canal_usuario varchar(50) null,
-    id_conta_usuario varchar(50) null,
-    usuario_canal varchar(50) null,
-    senha_canal varchar(50) null
+    nome_canal_usuario varchar(50) not null,
+    id_conta_usuario varchar(50) not null,
+    usuario_canal varchar(50) not null,
+    senha_canal varchar(50) not null
     );
     
 select * from usuario;
