@@ -51,17 +51,17 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h2>Alterações na 2ª Sprint: 💻</h2><br>
 <h3 align="center">Página de Selecionar Canais:</h3>
 <p><strong>Botão de redirecionamento direto para os canais já ativos e funcionalidade no select entre tokens e usuários:</strong></p>
-<img align="center" src=""/>
+<img align="center" src="Imagens/select.png"/>
 <br>
 <br>
 <h3 align="center">Página de Configuração de Canais (Token):</h3>
 <p><strong>Funcionalidade entre o Banco de Dados e Back-End, fazendo a transição até Configurações Ativas:</strong></p>
-<img align="center" src=""/>
+<img align="center" src="Imagens/token.png"/>
 <br>
 <br>
 <h3 align="center">Página de Configuração de Canais (Usuário e Senha):</h3>
 <p><strong>Funcionalidade entre o Banco de Dados e Back-End, fazendo a transição até Configurações Ativas:</strong></p>
-<img align="center" src=""/>
+<img align="center" src="Imagens/usuario.png"/>
 <br>
 <br>
 <h3 align="center">Página de Configurações Ativas: </h3>
