@@ -46,21 +46,20 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 
 ✔️ Funcionalidade do Banco de Dados das páginas de Configurações de Canais e Configurações Ativas. <br>
 ✔️ Funcionalidade do Back-end das páginas de Configurações de Canais e Configurações Ativas. <br>
-✔️ Aperfeiçoamento do Banco de Dados e Funcionalidade. <br>
+✔️ Aperfeiçoamento do Front-End. <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
 • Front-end: Java Swing.<br>
 • Back-end: Java.<br>
 • Banco de Dados: MySQL.<br>
-• Ferramentas: Github, Apache NetBeans IDE, Discord, Figma, Canva.<br>
+• Ferramentas: Github, Apache NetBeans IDE, Discord, Canva.<br>
 <div style="display: inline_blocks"><br>              
 <img align="center"src="Imagens/java.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/mysql.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/github.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/netbeans.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/discordia.png" height= "80" width= "80"/>
-<img align="center"src="Imagens/figma.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/canva.png" height= "80" width= "80"/>
 <br>
 <br>
@@ -74,13 +73,13 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h2>Modelo de dados📑</h2><br>
  Um modelo de banco de dados mostra a estrutura lógica de um banco de dados, incluindo as relações e restrições que determinam como os dados podem ser armazenados e acessados.
  <h5>Modelo Conceitual<h5>
- <img align="center"src="Imagens/DER_S2.jpg">
+ <img align="center"src="">
  <h5>Modelo Físico<h5>
- <img align="center"src="Imagens/Modelo_dados_físico.jpeg" height= "400" width= "600"/>
+ <img align="center"src="" height= "400" width= "600"/>
 <h2>Burndown 📈📉 </h2> <br>
  O Sprint Burndown Chart mostra a comparação entre o trabalho estimado inicialmente no Sprint Planning Meeting com a quantidade restante estimada de trabalho.
 <br>
-<img align="center" src="Imagens/Burndown.jpeg"/>  
+<img align="center" src=""/>  
 <br>
  <h2>Equipe 👾</h2>
  
