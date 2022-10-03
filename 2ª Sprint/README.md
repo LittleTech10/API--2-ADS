@@ -50,7 +50,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 <h2>Alterações na 2ª Sprint: 💻</h2><br>
 <h3 align="center">Página de Selecionar Canais:</h3>
-<p> Botão de redirecionamento direto para os canais já ativos e funcionalidade no select entre tokens e usuários: </p>
+<p><strong>Botão de redirecionamento direto para os canais já ativos e funcionalidade no select entre tokens e usuários:</strong></p>
 <img align="center" src=""/>
 <br>
 <br>
