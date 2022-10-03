@@ -55,17 +55,17 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 <br>
 <h3 align="center">Página de Configuração de Canais (Token):</h3>
-<p> Funcionalidade entre o Banco de Dados e Back-End, fazendo a transição até Configurações Ativas: </p>
+<p><strong>Funcionalidade entre o Banco de Dados e Back-End, fazendo a transição até Configurações Ativas:</strong></p>
 <img align="center" src=""/>
 <br>
 <br>
 <h3 align="center">Página de Configuração de Canais (Usuário e Senha):</h3>
-<p> Funcionalidade entre o Banco de Dados e Back-End, fazendo a transição até Configurações Ativas: </p>
+<p><strong>Funcionalidade entre o Banco de Dados e Back-End, fazendo a transição até Configurações Ativas:</strong></p>
 <img align="center" src=""/>
 <br>
 <br>
 <h3 align="center">Página de Configurações Ativas: </h3>
-<p> Funcionalidade entre o Banco de Dados e Back-End, mostrando dados direto na tabela, botões de edição, exclusão e navegação: </p>
+<p><strong>Funcionalidade entre o Banco de Dados e Back-End, mostrando dados direto na tabela, botões de edição, exclusão e navegação:</strong></p>
 <img align="center" src=""/>
 <br>
 <br>
