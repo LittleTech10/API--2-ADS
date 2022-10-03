@@ -48,6 +48,27 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 ✔️ Funcionalidade do Back-end das páginas de Configurações de Canais e Configurações Ativas. <br>
 ✔️ Aperfeiçoamento do banco de dados e funcionalidade. <br>
 <br>
+<h2>Alterações na 2ª Sprint: 💻</h2><br>
+<h3 align="center">Página de Selecionar Canais:</h3>
+<p> Botão de redirecionamento direto para os canais já ativos e funcionalidade no select entre tokens e usuários: </p>
+<img align="center" src=""/>
+<br>
+<br>
+<h3 align="center">Página de Configuração de Canais (Token):</h3>
+<p> Funcionalidade entre o Banco de Dados e Back-End, fazendo a transição até Configurações Ativas: </p>
+<img align="center" src=""/>
+<br>
+<br>
+<h3 align="center">Página de Configuração de Canais (Usuário e Senha):</h3>
+<p> Funcionalidade entre o Banco de Dados e Back-End, fazendo a transição até Configurações Ativas: </p>
+<img align="center" src=""/>
+<br>
+<br>
+<h3 align="center">Página de Configurações Ativas: </h3>
+<p> Funcionalidade entre o Banco de Dados e Back-End, mostrando dados direto na tabela, botões de edição, exclusão e navegação: </p>
+<img align="center" src=""/>
+<br>
+<br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
 • Front-end: Java Swing.<br>
