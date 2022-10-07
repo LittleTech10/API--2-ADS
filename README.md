@@ -55,7 +55,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 
 ✔️ Funcionalidade do Banco de Dados das páginas : Configurações de canais e Configurações ativas. <br> 
 ✔️ Funcionalidade do Back-end das páginas : Configurações de canais e Configurações ativas. <br>
-✔️ Aperfeiçoamento do banco de dados e funcionalidade. <br>
+✔️ Aperfeiçoamento do Front-End e Banco de Dados. <br>
 
 <h3> • Sprint 3 - 13/10 a 06/11 </h3>
 

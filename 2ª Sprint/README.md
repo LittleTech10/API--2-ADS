@@ -46,7 +46,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 
 ✔️ Funcionalidade do Banco de Dados das páginas de Configurações de Canais e Configurações Ativas. <br>
 ✔️ Funcionalidade do Back-end das páginas de Configurações de Canais e Configurações Ativas. <br>
-✔️ Aperfeiçoamento do banco de dados e funcionalidade. <br>
+✔️ Aperfeiçoamento do Front-End e Banco de Dados. <br>
 <br>
 <h2>Alterações na 2ª Sprint: 💻</h2><br>
 <h3 align="center">Página de Selecionar Canais:</h3>
