@@ -39,7 +39,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h2>Cronograma da 2ª Sprint 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/CronogramaS2.jpg"/>
+<img align="center" src="Imagens/CronogramaS2.png"/>
 
 
 <h3> • Sprint 2 - 19/09 a 09/10 </h3>
