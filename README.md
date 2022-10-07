@@ -125,7 +125,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 
 <h3>Burndown - 2ª Sprint </h3> <br>
-<img align="center" src=""/>
+<img align="center" src="Imagens/burnDown2.png"/>
 <br>
 
  <h2>Equipe 👾</h2>
