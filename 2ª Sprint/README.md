@@ -66,7 +66,12 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 <h3 align="center">Página de Configurações Ativas: </h3>
 <p><strong>Funcionalidade entre o Banco de Dados e Back-End, mostrando dados direto na tabela, botões de edição, exclusão e navegação:</strong></p>
-<img align="center" src=""/>
+<img align="center" src="Imagens/configToken.png"/>
+<img align="center" src="Imagens/editToken.png"/>
+<img align="center" src="Imagens/configUser.png"/>
+<img align="center" src="Imagens/edituser.png"/>
+<img align="center" src="Imagens/delete.png"/>
+<img align="center" src="Imagens/delete2.png"/>
 <br>
 <br>
 <h3 align="center">Vídeo demonstrativo:</h3>
