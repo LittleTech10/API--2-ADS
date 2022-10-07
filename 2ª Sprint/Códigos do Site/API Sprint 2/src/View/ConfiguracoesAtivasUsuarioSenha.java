@@ -534,7 +534,7 @@ public class ConfiguracoesAtivasUsuarioSenha extends javax.swing.JFrame {
             editarUsuarios.getEditCanal().setText(TabelaCanaisDaConta.getModel().getValueAt(setar,1).toString());
             editarUsuarios.getEditIDConta().setText(TabelaCanaisDaConta.getModel().getValueAt(setar,2).toString());
             editarUsuarios.getEditTokenAlt().setText(TabelaCanaisDaConta.getModel().getValueAt(setar,3).toString());
-            editarUsuarios.getEditTokenAlt1().setText(TabelaCanaisDaConta.getModel().getValueAt(setar,3).toString());
+            editarUsuarios.getEditTokenAlt1().setText(TabelaCanaisDaConta.getModel().getValueAt(setar,4).toString());
             
         } else {
             JOptionPane.showMessageDialog(null, "Selecione um canal da tabela");
