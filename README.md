@@ -104,7 +104,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h3>Modelo de dados - 1ª Sprint</h3><br>
 
 <h5>Modelo Conceitual<h5>
-<img align="center"src="Imagens/modelo_conceitual_Sprint1.PNG" height= "337" width= "1002"/>
+<img align="center"src="Imagens/modelo_conceitual_Sprint11.PNG" height= "337" width= "1002"/>
 
 <h5>Modelo Físico<h5>
 <img align="center"src="Imagens/Modelo_dados_físico.jpg" height= "400" width= "600"/>
@@ -121,11 +121,11 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  O Sprint Burndown Chart mostra a comparação entre o trabalho estimado inicialmente no Sprint Planning Meeting com a quantidade restante estimada de trabalho.
 <br>
 <h3>Burndown - 1ª Sprint </h3> <br>
-<img align="center" src="Imagens/Burndown.jpeg"/>
+<img align="center" src="Imagens/Burndown.jpeg" height= "400" width= "600"/>
 <br>
 
 <h3>Burndown - 2ª Sprint </h3> <br>
-<img align="center" src="Imagens/burnDown2.png"/>
+<img align="center" src="Imagens/burnDown2.png" height= "400" width= "600"/>
 <br>
 
  <h2>Equipe 👾</h2>
