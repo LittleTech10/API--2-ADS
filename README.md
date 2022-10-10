@@ -71,7 +71,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 <br>
 <h2>Demonstração completa de nossa aplicação 💻</h2><br>
-<h3 align="center"> Link da aplicação: https://youtu.be/bSkDKk770P4</h3>
+<h3 align="center"> Link da aplicação: https://youtu.be/Ap_WGC-w3F4 </h3>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
