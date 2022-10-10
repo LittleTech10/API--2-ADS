@@ -109,7 +109,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  <img align="center"src="Imagens/fisico.jpeg" height= "400" width= "600"/>
 
  <h5>Modelo Lógico<h5>
- <img align="center"src="Imagens/IMG-20221009-WA0042.jpg" height= "600" width= "800"/>
+ <img align="center"src="Imagens/Modelo_dados_lógico.jpeg" height= "600" width= "800"/>
 
 
 <h2>Burndown 📈📉 </h2> <br>
