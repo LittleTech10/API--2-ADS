@@ -101,19 +101,6 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h2>Modelo de dados📑</h2><br>
  Um modelo de banco de dados mostra a estrutura lógica de um banco de dados, incluindo as relações e restrições que determinam como os dados podem ser armazenados e acessados.
 <br>
-<h3>Modelo de dados - 1ª Sprint</h3><br>
-
-<h5>Modelo Conceitual<h5>
-<img align="center"src="Imagens/modelo_conceitual_Sprint11.PNG" height= "337" width= "1002"/>
-
-<h5>Modelo Físico<h5>
-<img align="center"src="Imagens/Modelo_dados_físico.jpg" height= "400" width= "600"/>
-
-<h5>Modelo Lógico<h5>
-<img align="center"src="Imagens/modelo_logico_S1.jpeg" height= "400" width= "600"/>
-
-
-<h3>Modelo de dados - 2ª Sprint</h3><br>
 
 <h5>Modelo Conceitual<h5>
 <img align="center"src="Imagens/conceitual.jpeg" height= "600" width= "1100"/>
