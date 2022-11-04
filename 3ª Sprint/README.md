@@ -49,12 +49,6 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 ✔️ Correção de bugs e aperfeiçoamento no Banco de Dados. <br>
 <br>
 <h2>Alterações na 3ª Sprint: 💻</h2><br>
-
-<!--<img align="center" src="Imagens/configToken.png"/> 
-<img align="center" src="Imagens/editToken.png"/>
-<img align="center" src="Imagens/configUser.png"/>
-<img align="center" src="Imagens/delete.png"/>
-<img align="center" src="Imagens/delete2.png"/> -->
 <br>
 <br>
 <h3 align="center">Vídeo demonstrativo:</h3>
