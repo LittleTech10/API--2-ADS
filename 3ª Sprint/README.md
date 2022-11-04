@@ -36,45 +36,29 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  <p> • Documentações </p>
  <br>
  <br>
-<h2>Cronograma da 2ª Sprint 📆</h2>
+<h2>Cronograma da 3ª Sprint 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/CronogramaS2.jpeg"/>
+<img align="center" src=""/>
 
 
-<h3> • Sprint 2 - 19/09 a 09/10 </h3>
+<h3> • Sprint 3 - 17/10 a 06/11 </h3>
 
-✔️ Funcionalidade do Banco de Dados das páginas de Configurações de Canais e Configurações Ativas. <br>
-✔️ Funcionalidade do Back-end das páginas de Configurações de Canais e Configurações Ativas. <br>
-✔️ Aperfeiçoamento do Front-End e Banco de Dados. <br>
+✔️ Barra de Pesquisa. <br>
+✔️ Aperfeiçoamento do Front-End <br>
+✔️ Correção de bugs e aperfeiçoamento no Banco de Dados. <br>
 <br>
-<h2>Alterações na 2ª Sprint: 💻</h2><br>
-<h3 align="center">Página de Selecionar Canais:</h3>
-<p><strong>Botão de redirecionamento direto para os canais já ativos e funcionalidade no select entre tokens e usuários:</strong></p>
-<img align="center" src="Imagens/select.png"/>
-<br>
-<br>
-<h3 align="center">Página de Configuração de Canais (Token):</h3>
-<p><strong>Funcionalidade entre o Banco de Dados e Back-End, fazendo a transição até Configurações Ativas:</strong></p>
-<img align="center" src="Imagens/token.png"/>
-<br>
-<br>
-<h3 align="center">Página de Configuração de Canais (Usuário e Senha):</h3>
-<p><strong>Funcionalidade entre o Banco de Dados e Back-End, fazendo a transição até Configurações Ativas:</strong></p>
-<img align="center" src="Imagens/usuario.png"/>
-<br>
-<br>
-<h3 align="center">Página de Configurações Ativas: </h3>
-<p><strong>Funcionalidade entre o Banco de Dados e Back-End, mostrando dados direto na tabela, botões de edição, exclusão e navegação:</strong></p>
-<img align="center" src="Imagens/configToken.png"/>
+<h2>Alterações na 3ª Sprint: 💻</h2><br>
+
+<!--<img align="center" src="Imagens/configToken.png"/> 
 <img align="center" src="Imagens/editToken.png"/>
 <img align="center" src="Imagens/configUser.png"/>
 <img align="center" src="Imagens/delete.png"/>
-<img align="center" src="Imagens/delete2.png"/>
+<img align="center" src="Imagens/delete2.png"/> -->
 <br>
 <br>
 <h3 align="center">Vídeo demonstrativo:</h3>
-<img align="center" src="Gifs/api gif.gif"/>
+<img align="center" src=""/>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
@@ -96,26 +80,26 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  O product backlog é uma lista ordenada que tem como função documentar de forma clara todos os requisitos do desenvolvimento de um projeto. Itens que precisem de maior refinamento geralmente têm uma importância menor e ficam mais abaixo no Product Backlog.  
 <br>
 <br>
-<img align="center" src="Imagens/backlogTotal .PNG"/>
+<img align="center" src=""/>
 <br>
 <br>
 <h2>Modelo de dados📑</h2><br>
  Um modelo de banco de dados mostra a estrutura lógica de um banco de dados, incluindo as relações e restrições que determinam como os dados podem ser armazenados e acessados.
 
  <h5>Modelo Conceitual<h5>
- <img align="center"src="Imagens/Modelo_dados_conceitual.png" height= "600" width= "800"/>
+ <img align="center"src="" height= "600" width= "800"/>
 
  <h5>Modelo Físico<h5>
- <img align="center"src="Imagens/fisico.jpeg" height= "400" width= "600"/>
+ <img align="center"src="" height= "400" width= "600"/>
 
  <h5>Modelo Lógico<h5>
- <img align="center"src="Imagens/Modelo_dados_lógico.jpeg" height= "600" width= "800"/>
+ <img align="center"src="" height= "600" width= "800"/>
 
 
 <h2>Burndown 📈📉 </h2> <br>
  O Sprint Burndown Chart mostra a comparação entre o trabalho estimado inicialmente no Sprint Planning Meeting com a quantidade restante estimada de trabalho.
 <br>
-<img align="center" src="Imagens/burnDown2.png"/>  
+<img align="center" src=""/>  
 <br>
  <h2>Equipe 👾</h2>
  
