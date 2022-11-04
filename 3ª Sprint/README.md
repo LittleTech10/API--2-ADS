@@ -81,13 +81,13 @@ Portanto este sistema será responsável por salvar estas informações de usuá
  Um modelo de banco de dados mostra a estrutura lógica de um banco de dados, incluindo as relações e restrições que determinam como os dados podem ser armazenados e acessados.
 
  <h5>Modelo Conceitual<h5>
- <img align="center"src="" height= "600" width= "800"/>
+ <img align="center"src="Imagens/conceitual.jpeg" height= "600" width= "800"/>
 
  <h5>Modelo Físico<h5>
- <img align="center"src="" height= "400" width= "600"/>
+ <img align="center"src="Imagens/fisico.jpeg" height= "400" width= "600"/>
 
  <h5>Modelo Lógico<h5>
- <img align="center"src="" height= "600" width= "800"/>
+ <img align="center"src="Imagens/Modelo_dados_lógicoS2.jpeg" height= "600" width= "800"/>
 
 
 <h2>Burndown 📈📉 </h2> <br>
