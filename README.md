@@ -57,11 +57,11 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 ✔️ Funcionalidade do Back-end das páginas : Configurações de canais e Configurações ativas. <br>
 ✔️ Aperfeiçoamento do Front-End e Banco de Dados. <br>
 
-<h3> • Sprint 3 - 13/10 a 06/11 </h3>
+<h3> • Sprint 3 - 17/10 a 06/11 </h3>
 
-✔️ Sistema Relacional entre as páginas de Cadastro de Canais, Login de Usuário e Login do Administrador. <br>
 ✔️ Barra de Pesquisa. <br>
-✔️ Aperfeiçoamento e Funcionalidade do Banco de Dados. <br>
+✔️ Aperfeiçoamento do Front-End <br>
+✔️ Correção de bugs e aperfeiçoamento no Banco de Dados. <br>
 
 <h3> • Sprint 4 - 07/11 a 27/11 </h3>
 
