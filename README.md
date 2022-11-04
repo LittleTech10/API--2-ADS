@@ -95,7 +95,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 <br>
 
-<img align="center" src="Imagens/backlogTotal .PNG"/>
+<img align="center" src="Imagens/backlogTotal.PNG"/>
 <br>
 <br>
 <h2>Modelo de dados📑</h2><br>
