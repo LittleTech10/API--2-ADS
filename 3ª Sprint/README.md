@@ -93,7 +93,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h2>Burndown 📈📉 </h2> <br>
  O Sprint Burndown Chart mostra a comparação entre o trabalho estimado inicialmente no Sprint Planning Meeting com a quantidade restante estimada de trabalho.
 <br>
-<img align="center" src=""/>  
+<img align="center" src="Imagens/burndownS3.PNG"/>  
 <br>
  <h2>Equipe 👾</h2>
  

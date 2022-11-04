@@ -117,9 +117,11 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h3>Burndown - 1ª Sprint </h3> <br>
 <img align="center" src="Imagens/Burndown.jpeg" height= "400" width= "600"/>
 <br>
-
 <h3>Burndown - 2ª Sprint </h3> <br>
 <img align="center" src="Imagens/burnDown2.png" height= "400" width= "600"/>
+<br>
+<h3>Burndown - 3ª Sprint </h3> <br>
+<img align="center" src="Imagens/burndownS3.PNG" height= "400" width= "600"/>
 <br>
 
  <h2>Equipe 👾</h2>
