@@ -39,7 +39,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h2>Cronograma da 3ª Sprint 📆</h2>
 <br>
 <br>
-<img align="center" src=""/>
+<img align="center" src="Imagens/Cronograma03.jpg"/>
 
 
 <h3> • Sprint 3 - 17/10 a 06/11 </h3>
