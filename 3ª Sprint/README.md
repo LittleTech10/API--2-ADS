@@ -49,10 +49,28 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 ✔️ Correção de bugs e aperfeiçoamento no Banco de Dados. <br>
 <br>
 <h2>Alterações na 3ª Sprint: 💻</h2><br>
+<h3 align="center">Barra de Pesquisa</h3>
+<p><strong>Barra de Pesquisa e filtro de pesquisa para melhor organização dos dados:</strong></p>
+<img align="center" src="Imagens/pesquisa.jpeg"/>
+<br>
+<br>
+<h3 align="center">Impedimento de e-mail e/ou usuário duplicados no sistema:</h3>
+<p><strong>Aviso de erro em cadastrar pois o usuário e e-mail ja existem no sistema:</strong></p>
+<img align="center" src="Imagens/email.jpeg"/>
+<br>
+<br>
+<h3 align="center">Impedimento de canais duplicados no sistema:</h3>
+<p><strong>Aviso de erro em cadastrar pois o canal ja existe no sistema:</strong></p>
+<img align="center" src="Imagens/canal.jpeg"/>
+<br>
+<br>
+<h3 align="center">Tabela de canais cadastrados (ADMIN)</h3>
+<p><strong>Tabela que mostra todos os canais cadastrados no sistema para o administrador:</strong></p>
+<img align="center" src="Imagens/canaladm.jpeg"/>
 <br>
 <br>
 <h3 align="center">Vídeo demonstrativo:</h3>
-<img align="center" src="Gifs/gif api finalizado 3.gif"/>
+<img align="center" src="Gifs/api3.gif"/>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
