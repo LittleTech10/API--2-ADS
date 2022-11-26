@@ -47,7 +47,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 ✔️ Paginação <br>
 ✔️ Aperfeiçoamento do Front-End <br>
 ✔️ Página de dúvidas frequentes<br>
-✔️ Ocultação de senha na página de login<br>
+✔️ Visualização de senha na página de login<br>
 ✔️ Barra de pesquisa na página de administrador<br>
 <br>
 <h2>Alterações na 4ª Sprint: 💻</h2><br>
