@@ -95,7 +95,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 <br>
 
-<img align="center" src="Imagens/BacklogTotal.PNG"/>
+<img align="center" src="Imagens/BacklogTotal.png"/>
 <br>
 <br>
 <h2>Modelo de dados📑</h2><br>
@@ -124,7 +124,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <img align="center" src="Imagens/burndownS3.PNG" height= "400" width= "600"/>
 <br>
 <h3>Burndown - 4ª Sprint </h3> <br>
-<img align="center" src="Imagens/burndownS4.PNG" height= "400" width= "600"/>
+<img align="center" src="Imagens/burndownS4.png" height= "400" width= "600"/>
 <br>
 
  <h2>Equipe 👾</h2>
