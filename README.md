@@ -65,8 +65,11 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 
 <h3> • Sprint 4 - 07/11 a 27/11 </h3>
 
-✔️ Paginação. <br>
-✔️ Aperfeiçoamento do aplicativo. <br>
+✔️ Paginação <br>
+✔️ Aperfeiçoamento do Front-End <br>
+✔️ Página de dúvidas frequentes<br>
+✔️ Ocultação de senha na página de login<br>
+✔️ Barra de pesquisa na página de administrador<br>
 
 <br>
 <br>
