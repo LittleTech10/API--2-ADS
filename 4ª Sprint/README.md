@@ -42,7 +42,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <img align="center" src="Imagens/Cronograma04.jpg"/>
 
 
-<h3> • Sprint 3 - 17/10 a 06/11 </h3>
+<h3> • Sprint 4 - 08/10 a 27/11 </h3>
 
 ✔️ Paginação <br>
 ✔️ Aperfeiçoamento do Front-End <br>
