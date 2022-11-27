@@ -64,11 +64,10 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 ✔️ Correção de bugs e aperfeiçoamento no Banco de Dados. <br>
 
 <h3> • Sprint 4 - 07/11 a 27/11 </h3>
-✔️ Paginação <br>
-✔️ Aperfeiçoamento do Front-End <br>
-✔️ Página de dúvidas frequentes <br>
-✔️ Visualização de senha na página de login <br>
 ✔️ Barra de pesquisa na página de administrador <br>
+✔️ Aperfeiçoamento do Front-End <br>
+✔️ Visualização de senha na página de login <br>
+✔️ Página de dúvidas frequentes <br>
 
 <br>
 <br>
