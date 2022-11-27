@@ -61,7 +61,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <p><strong>Página com as dúvidas mais frequentes dos usuários, com suas respectivas soluções:</strong></p>
 <br>
 <h3 align="center">Vídeo demonstrativo:</h3>
-<img align="center" src="Imagens/video-api-finalizado.gif"/>
+<img align="center" src="Imagens/GIF.gif"/>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
