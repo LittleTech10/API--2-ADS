@@ -39,7 +39,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h2>Cronograma da 4ª Sprint 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/Cronograma04.jpg"/>
+<img align="center" src="Imagens/CronogramaS4.jpeg"/>
 
 
 <h3> • Sprint 4 - 08/10 a 27/11 </h3>
