@@ -62,7 +62,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <br>
 <h3 align="center">Página de dúvidas frequentes:</h3>
 <p><strong>Página com as dúvidas mais frequentes dos usuários, com suas respectivas soluções:</strong></p>
-<img align="center" src="Imagens/FAC.jpeg"/>
+<img align="center" src="Imagens/FAQ.jpeg"/>
 <br>
 <br>
 <h3 align="center">Vídeo demonstrativo:</h3>
