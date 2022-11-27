@@ -80,7 +80,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 • Front-end: Java Swing.<br>
 • Back-end: Java.<br>
 • Banco de Dados: MySQL.<br>
-• Ferramentas: Github, Apache NetBeans IDE, Discord, Figma, Canva.<br>
+• Ferramentas: Github, Apache NetBeans IDE, Discord, Figma, Canva, AWS.<br>
 <div style="display: inline_blocks"><br>              
 <img align="center"src="Imagens/java.png" height= "80" width= "80"/>
 <img align="center"src="Imagens/mysql.png" height= "80" width= "80"/>
