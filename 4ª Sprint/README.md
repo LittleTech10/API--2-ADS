@@ -54,7 +54,7 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <h3 align="center">Barra de pesquisa na página de administrador</h3>
 <p><strong>Barra de pesquisa para melhor organização dos dados:</strong></p>
 <br>
-<h3 align="center">Ocultação de senha na página de login</h3>
+<h3 align="center">Visualização de senha na página de login</h3>
 <p><strong>As senhas permanacem ocultas enquanto o usuário as digitam, causando maior privacidade:</strong></p>
 <br>
 <h3 align="center">Página de dúvidas frequentes:</h3>
