@@ -54,11 +54,16 @@ Portanto este sistema será responsável por salvar estas informações de usuá
 <p><strong>Barra de pesquisa para melhor organização dos dados:</strong></p>
 <img align="center" src="Imagens/barraADM.jpg"/>
 <br>
+<br>
 <h3 align="center">Visualização de senha na página de login</h3>
 <p><strong>As senhas permanacem ocultas enquanto o usuário as digitam, causando maior privacidade:</strong></p>
+<img align="center" src="Imagens/ExibirSenha.jpeg"/>
+<br>
 <br>
 <h3 align="center">Página de dúvidas frequentes:</h3>
 <p><strong>Página com as dúvidas mais frequentes dos usuários, com suas respectivas soluções:</strong></p>
+<img align="center" src="Imagens/FAC.jpeg"/>
+<br>
 <br>
 <h3 align="center">Vídeo demonstrativo:</h3>
 <img align="center" src="Imagens/GIF.gif"/>
